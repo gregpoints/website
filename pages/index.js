@@ -15,8 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Where dream meets {' '}.
-          <code className={styles.code}>reality</code>
+          Where dream meets reality.
         </p>
 
         <div className={styles.grid}>
@@ -33,18 +32,18 @@ export default function Home() {
             <p>Find in-depth information about GP features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://crypto.gregpoints.com" className={styles.card}>
             <h3>Crypto &rarr;</h3>
             <p>Get the app to start mining.</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://events.gregpoints.com"
             className={styles.card}
           >
-            <h3>API &rarr;</h3>
+            <h3>Events &rarr;</h3>
             <p>
-              Explore the insides of the GP API.
+              Explore the keynotes and information about GP.
             </p>
           </a>
         </div>
