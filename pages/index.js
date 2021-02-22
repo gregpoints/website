@@ -56,6 +56,7 @@ export default function Home() {
         >
           Powered by{' '}
           <img src="/gregpoints.svg" alt="Greg Points Logo" className={styles.logo} />
+          Greg Points.
         </a>
       </footer>
     </div>
